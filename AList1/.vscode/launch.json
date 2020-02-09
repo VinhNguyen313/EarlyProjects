@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AList1Runner",
+            "request": "launch",
+            "mainClass": "AList1Runner",
+            "projectName": "AList1"
+        }
+    ]
+}
